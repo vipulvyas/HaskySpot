@@ -12,6 +12,7 @@ git clone https://github.com/vipulvyas/HaskySpot/
 cd HaskySpot
 chmod +x requirment.sh
 ./requirment.sh
+python3 main.py
 ```
 ```
 install lolcate  not compulsory`
